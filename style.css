@@ -1,0 +1,13 @@
+.container{
+    position: relative;
+    width: 100vw;
+    height:35em ;
+    background-color: rgb(192, 152, 230);
+}
+
+#click{
+    position: absolute;
+    width: 5em;
+    height: 5em;
+}
+
